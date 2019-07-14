@@ -145,6 +145,14 @@ a:focus {
     -o-background-size: cover;
 }
 
+#policy {
+	color: #ddd
+}
+
+#policy strong {
+	color: #fff
+}
+
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;

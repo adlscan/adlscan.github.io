@@ -49,20 +49,21 @@ permalink: /privacypolicy
 ### 7. SENSITIVE INFORMATION
 1. Sensitive information is defined in the Privacy Act to include information or opinion about such things as an individual’s racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a trade union or other professional body, criminal record or health information.
 2. Sensitive information will be used by ADL Scan only:
-for the primary purpose for which it was obtained;
-for a secondary purpose that is directly related to the primary purpose; with your consent; or
-where required or authorized by law.
+   - for the primary purpose for which it was obtained;
+   - for a secondary purpose that is directly related to the primary purpose;
+   - with your consent; or
+   - where required or authorized by law.
 
 ### 8. COMPLAINTS ABOUT PRIVACY
 1. As a valuable customer, if you have any complaints in relation to this Privacy Policy or privacy practice, please contact ADL Scan at adlscan3@gmail.com.
 2. A complaint should identify whether it is about:
-the collection of Personal Information;
-the use of Personal Information;
-the disclosure of Personal Information;
-the security or storage of Personal Information;
-the accuracy of Personal Information;
-a refusal to give complaint access to or find out about their Personal Information; or
-a refusal to change or delete Personal Information.
+   - the collection of Personal Information;
+   - the use of Personal Information;
+   - the disclosure of Personal Information;
+   - the security or storage of Personal Information;
+   - the accuracy of Personal Information;
+   - a refusal to give complaint access to or find out about their Personal Information; or
+   - a refusal to change or delete Personal Information.
 3. ADL Scan values your opinions and takes complaints very seriously. Upon receiving written notice of your complaint about privacy, ADL Scan will respond quickly to advise you of the outcome following its enquiring into the same. You will also be invited to respond to its outcome. If a response is received, ADL Scan will assess it and advise if it has changed its view or outcome. If you are unsatisfied with the final outcome, ADL Scan will advise further options including, if appropriate, making a complaint with the Office of the Australian Information Commissioner.
 
 ### 9. MISCELLANEOUS
