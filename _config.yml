@@ -6,7 +6,7 @@ url: https://adlscan.github.io
 description: "Mobile utilities for you"
 
 appstore_link                             : https://www.apple.com                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://www.google.com                                          # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.adlscan.ADLScan                                          # Enter Google Play Store URL.
 
 
 # Color settings (hex-codes without the leading hash-tag)
